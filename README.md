@@ -1,3 +1,2 @@
 # C-Code-Expense-Management
-It is a mini-project which involves C language and File handling as Database such that it meets the need for Real-World. 
-Example: To manage expense of a person in a organization.
+In this project, the application is used to calculate the expense of a person and generate the details of per day or per month or per year based expenses such that it meets the need of Real-World Example.
